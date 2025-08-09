@@ -1,0 +1,122 @@
+{
+	"categorys": [
+		{
+			"id": 1,
+			"name": "Entradas",
+			"image": "category-img.webp",
+			"dishes": [
+				{
+					"id": "1_1",
+					"name": "Nachos pequeños",
+					"image": "https://example.com/dish1.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 8000
+				},
+				{
+					"id": "1_2",
+					"name": "Chorizos",
+					"image": "https://example.com/dish2.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 6000
+				},
+				{
+					"id": "1_3",
+					"name": "Huevos de codorniz",
+					"image": "https://example.com/dish3.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 5000
+				},
+				{
+					"id": "1_4",
+					"name": "Quesadillas pequeñas",
+					"image": "https://example.com/dish4.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 7000
+				},
+				{
+					"id": "1_5",
+					"name": "Empanadastas",
+					"image": "https://example.com/dish5.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 6000
+				},
+				{
+					"id": "1_6",
+					"name": "Patacon radaji",
+					"image": "https://example.com/dish6.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 7000
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Platos a la carte",
+			"image": "category-img.webp",
+			"dishes": [
+				{
+					"id": "2_1",
+					"name": "Pechuga a la plancha",
+					"image": "https://example.com/dish7.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 15000
+				},
+				{
+					"id": "2_2",
+					"name": "Churrasco",
+					"image": "https://example.com/dish21.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 20000
+				},
+				{
+					"id": "2_3",
+					"name": "Costillitas BBQ",
+					"image": "https://example.com/dish22.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 20000
+				},
+				{
+					"id": "2_4",
+					"name": "Alitas BBQ",
+					"image": "https://example.com/dish23.jpg",
+					"description": "None",
+					"observations": "None",
+					"price": 10000
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Hamburguesas",
+			"image": "category-img.webp",
+			"dishes": [
+				{
+					"id": "3_1",
+					"name": "Sensilla",
+					"image": "https://example.com/dish3.jpg",
+					"description": "Carne, queso, lechuga, tomate, cebolla y salsa especial",
+					"observations": "None",
+					"Options": [
+						{
+							"name": "Sola",
+							"price": 5000
+						},
+						{
+							"name": "Combo",
+							"price": 15000
+						}
+					]
+				}
+			]
+		}
+	]
+}
